@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Olá, eu sou a Marta Rodrigues Gomes!
 
-<!--
-**marta9007/marta9007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Seja bem-vindo(a) ao meu perfil do GitHub!
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+Sou apaixonada por tecnologia, programação e adoro aprender coisas novas todos os dias. Estou sempre buscando crescer e compartilhar conhecimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Habilidades
+- HTML, CSS, JavaScript
+- Git e GitHub
+- conhecimento basico em MySQL
+
+### 📚 Atualmente estou estudando
+- faço parte atualmente do **programa Desenvolvimento de software fusTech do grupo koru em parceiria com o oboticário, aonde estou aprimorando minhas habilidades em programação e desenvolvimento de software**. 
+- Também estou cursando **analise e desenvolvimento de sistemas** ampliando meu conhecimento em tecnologia, e também faço algus curso com o professor Gustavo Guanabara.
+
+
+### 🔧 Projetos em que estou trabalhando
+- Página de diário pessoal em HTML e CSS
+
+
+### 📫 Como me encontrar
+- Email: martahonorato1919@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/marta-rodrigues-296030367/
+  
+
+### ✨ Curiosidades
+- Amo tecnologia e criar coisas diferentes.
+- Adoro explorar novas ideias para projetos.
+  -o mundo da tecnologia tem se tornado algo que eu me reencontro e descubro coisas novas todos os dias 
+
+---
+⭐ Se quiser, dê uma olhada nos meus repositórios e projetos!
