@@ -11,7 +11,7 @@ Sou apaixonada por tecnologia, programação e adoro aprender coisas novas todos
 - conhecimento basico em MySQL
 
 ### 📚 Atualmente estou estudando
-- faço parte atualmente do **programa Desenvolvimento de software fusTech do grupo koru em parceiria com o oboticário, aonde estou aprimorando minhas habilidades em programação e desenvolvimento de software**. 
+- faço parte atualmente do **programa Desenvolvimento de software full Stack do grupo koru em parceiria com o oboticário, aonde estou aprimorando minhas habilidades em programação e desenvolvimento de software**. 
 - Também estou cursando **analise e desenvolvimento de sistemas** ampliando meu conhecimento em tecnologia, e também faço algus curso com o professor Gustavo Guanabara.
 
 
