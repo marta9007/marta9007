@@ -24,7 +24,8 @@ Atualmente estou consolidando minha base em lógica de programação, automaçã
 
 ## 📜 Certificações e experiências complementares
 - Cursos de *lógica de programação e fundamentos de desenvolvimento*, com prática em funções, listas e resolução de problemas
-- Jornada Tech – Programa Desenvolve (Grupo Boticário), com conteúdos introdutórios em inteligência artificial, fundamentos de dados e visão de negócio
+- *Jornada Tech – Programa Desenvolve (Grupo Boticário)*, com conteúdos introdutórios em inteligência artificial, fundamentos de dados e visão de negócio
+
 ---
 
 ## 🔧 Projetos
@@ -40,4 +41,4 @@ Atualmente estou consolidando minha base em lógica de programação, automaçã
 
 ---
 
-⭐ Este perfil reúne meus estudos e projetos em constante evolução, com foco em desenvolvimento back-end!
+⭐ Este perfil reúne meus estudos e projetos em constante evolução, com foco em desenvolvimento back-end.
