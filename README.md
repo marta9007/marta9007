@@ -1,33 +1,43 @@
-## 👋 Olá, eu sou a Marta Rodrigues Gomes!
+# 👋 Olá, eu sou a Marta Rodrigues Gomes
 
-✨ Seja bem-vindo(a) ao meu perfil do GitHub!
-
-### 🚀 Sobre mim
-Sou apaixonada por tecnologia, programação e adoro aprender coisas novas todos os dias. Estou sempre buscando crescer e compartilhar conhecimento.
-
-### 💻 Habilidades
-- HTML, CSS, JavaScript
-- Git e GitHub
-- conhecimento basico em MySQL
-
-### 📚 Atualmente estou estudando
-- faço parte atualmente do **programa Desenvolvimento de software full Stack do grupo koru em parceiria com o oboticário, aonde estou aprimorando minhas habilidades em programação e desenvolvimento de software**. 
-- Também estou cursando **analise e desenvolvimento de sistemas** ampliando meu conhecimento em tecnologia, e também faço algus curso com o professor Gustavo Guanabara.
-
-
-### 🔧 Projetos em que estou trabalhando
-- Página de diário pessoal em HTML e CSS
-
-
-### 📫 Como me encontrar
-- Email: martahonorato1919@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/marta-rodrigues-296030367/
-  
-
-### ✨ Curiosidades
-- Amo tecnologia e criar coisas diferentes.
-- Adoro explorar novas ideias para projetos.
-  -o mundo da tecnologia tem se tornado algo que eu me reencontro e descubro coisas novas todos os dias 
+Sou *desenvolvedora em formação, com foco em **Python e desenvolvimento back-end*.  
+Atualmente estou consolidando minha base em lógica de programação, automação de tarefas e construção de soluções práticas, com código organizado e foco em resolução de problemas.
 
 ---
-⭐ Se quiser, dê uma olhada nos meus repositórios e projetos!
+
+## 💻 Tecnologias e conhecimentos
+- Python (em desenvolvimento)
+- Lógica de programação
+- Git e GitHub
+- Noções de back-end
+- Banco de dados (básico – MySQL)
+- Automação de tarefas simples
+
+---
+
+## 📚 Formação e estudos
+- Estudante de *Análise e Desenvolvimento de Sistemas*
+- Estudo contínuo de *Python*, com foco em fundamentos, lógica e aplicação prática
+- Desenvolvimento de projetos próprios para fortalecimento de portfólio técnico
+
+---
+
+## 📜 Certificações e experiências complementares
+- Cursos de *lógica de programação e fundamentos de desenvolvimento*, com prática em funções, listas e resolução de problemas
+- Jornada Tech – Programa Desenvolve (Grupo Boticário), com conteúdos introdutórios em inteligência artificial, fundamentos de dados e visão de negócio
+---
+
+## 🔧 Projetos
+- Projetos em Python voltados para prática de lógica, automação e resolução de problemas
+- Exercícios organizados de fundamentos de programação  
+(novos projetos em desenvolvimento)
+
+---
+
+## 📫 Contato
+- Email: martahonorato1919@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/marta-rodrigues-296030367/
+
+---
+
+⭐ Este perfil reúne meus estudos e projetos em constante evolução, com foco em desenvolvimento back-end!
